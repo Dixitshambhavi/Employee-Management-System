@@ -235,3 +235,4 @@ window.grid_columnconfigure(3, weight=1)
 treeview_data()
 window.bind('<ButtonRelease>', selection)
 window.mainloop()
+
